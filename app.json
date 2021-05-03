@@ -1,0 +1,12 @@
+{
+  "name": "daythree",
+  "displayName": "daythree",
+  "expo": {
+    "name": "daythree",
+    "slug": "daythree",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
